@@ -5,6 +5,8 @@ goto-ru/project-list
 
 This is a list of projects affiliated with GoTo, but not stored in the organization repo. These commonly include students' ones.
 
+Open a Pull Request to get your project added to the list.
+
 List
 ====
 
