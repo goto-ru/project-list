@@ -9,9 +9,7 @@ Open a Pull Request to get your project added to the list.
 
 List
 ====
-
-#. `Recommendation system for tvrain <https://github.com/tvorozid/recommendation_system>`_.
-
+- `Recommendation system <https://github.com/tvorozid/recommendation_system>`_ - Recommendation system for `tvrain <https://tvrain.ru/>`_ prosthetics.
 .. |goto-ru| image:: https://img.shields.io/badge/GoTo-project-4bb89b.svg
         :target: https://github.com/goto-ru/
         :alt: GoTo project
